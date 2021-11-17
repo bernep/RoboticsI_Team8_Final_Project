@@ -1,0 +1,30 @@
+/home/kyle/code/litecsim/Simulator/labs/lab4game.py:324: RuntimeWarning: invalid value encountered in remainder
+  p_angles = np.mod(p_angles,2*np.pi)
+pygame 2.0.1 (SDL 2.0.14, Python 3.8.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Selected Lab ? 4
+62.5
+Traceback (most recent call last):
+  File "/home/kyle/code/litecsim/Simulator/LITECsimulator.py", line 316, in <module>
+    time.sleep(1)
+KeyboardInterrupt
+Exception ignored in: <module 'threading' from '/usr/lib/python3.8/threading.py'>
+Traceback (most recent call last):
+  File "/usr/lib/python3.8/threading.py", line 1388, in _shutdown
+    lock.acquire()
+KeyboardInterrupt: 
+/home/kyle/code/litecsim/Simulator/labs/lab4game.py:324: RuntimeWarning: invalid value encountered in remainder
+  p_angles = np.mod(p_angles,2*np.pi)
+pygame 2.0.1 (SDL 2.0.14, Python 3.8.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Selected Lab ? 4
+62.5
+Simulation/GUI Killed
+Sim Interface Killed
+Both Threads Killed, Quitting
+pygame 2.0.1 (SDL 2.0.14, Python 3.8.5)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+Selected Lab ? 3
+Simulation/GUI Killed
+Sim Interface Killed
+Both Threads Killed, Quitting

@@ -1,0 +1,15 @@
+1. Start the Simulator and Code Blocks.  Do not run the code program yet
+2. Start Wireshark
+3. Set up Wireshark port monitoring:
+    1. Press F5 to "refresh interfaces"
+    2. Go to Capture -> Options
+    3. Select the "Adapter for loopback traffic capture" interface
+    4. Enter "port 23500" in the "Capture filter for selected interfaces" box
+    5. Click "Start"
+4. Run the code program from Code Blocks
+5. Wait until the simulation timeout occurs
+6. Stop the capture by pressing the Red stop button (top-left)
+7. Save the output via File -> Save As.  Give it a name
+8. Start a new session by pressing the green shark fin button with the circular arrow within it.
+9. Repeat 4-8 a couple more times.
+10. Send me the saved files.

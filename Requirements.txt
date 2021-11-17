@@ -1,0 +1,5 @@
+numpy
+pygame>=2.0.0.dev6
+Pygments
+scipy
+matplotlib>=3.0.0

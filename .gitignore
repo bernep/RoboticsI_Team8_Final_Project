@@ -1,0 +1,16 @@
+**/Debug*/
+**/Release*/
+**/.launches/
+**/.metadata/
+**/.config
+**/.xdchelp
+/.metadata/
+/dvt/
+/RemoteSystemsTempFiles/
+**/.jxbrowser-data/
+*.pyc
+**/build/
+**/dist/
+*.*project
+**/.settings/
+*.log
